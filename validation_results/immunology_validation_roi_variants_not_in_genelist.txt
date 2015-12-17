@@ -1,0 +1,2 @@
+	CHROM	POS	Reference	Call	VEP_max_consequence	GENE_symbol	GENE_Aliases	inROI
+433	chrX	1422868	G	A	synonymous_variant	.		0
