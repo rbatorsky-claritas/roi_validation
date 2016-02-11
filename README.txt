@@ -23,6 +23,9 @@ The two gore files are produced by:
 Basic: CHROM, POS, Reference, Call
 VEP: _max_consequence
 GENE: symbol
+5) Click disk icon to save gor file to the user_data folder on the nextcode clinical cloud directory (not a nested folder)
+6) Right click or click on the created file in user_data and select copy
+7) Navigate to local directory and paste the copied file
 
 The three outputs are:
 - BMF_demo_exome_subtract_roi_variants.txt: Table of variants found in the exome but not in the roi
