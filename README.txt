@@ -1,4 +1,10 @@
+
+
 This is a script to validate that ROI genelist filtering is done correctly for studies in NextCode.
+
+Dependencies:
+Tested with ython 2.7.10
+Python packages pandas and argparse are needed
  
 Run on example data in roi_validation_demo directory:
 python roiResultsValidation.py -roivariant roi_validation_demo/roi_test.gor -exomevariant roi_validation_demo/exome_test.gor -prefix BMF_demo -genelist roi_validation_demo/BMF_v1.genelist.txt
