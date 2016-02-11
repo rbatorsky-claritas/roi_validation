@@ -1,0 +1,4 @@
+CHROM	POS	Reference	Call	VEP_max_consequence	GENE_symbol
+chr1	11863057	G	A	synonymous_variant	MTHFR
+chr1	19201956	A	G	synonymous_variant	ALDH4A1
+chr1	22206942	G	A	synonymous_variant	WRONGENE

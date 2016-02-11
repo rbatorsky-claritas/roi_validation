@@ -1,0 +1,13 @@
+CHROM	POS	Reference	Call	VEP_max_consequence	GENE_symbol
+chr1	1957037	T	C	synonymous_variant	GABRD
+chr1	11854457	G	A	synonymous_variant	MTHFR
+chr1	11855318	T	C	missense_variant	MTHFR
+chr1	11863057	G	A	upstream_gene_variant	CLCN6
+chr1	11863057	G	A	synonymous_variant	MTHFR
+chr1	19201956	A	G	synonymous_variant	ALDH4A1
+chr1	22149935	T	C	3_prime_UTR_variant	LDLRAD2
+chr1	22149935	T	C	synonymous_variant	HSPG2
+chr1	22191454	G	A	missense_variant	HSPG2
+chr1	22199245	C	T	synonymous_variant	HSPG2
+chr1	22206649	T	C	missense_variant	HSPG2
+chr1	22206942	G	A	synonymous_variant	WRONGENE
