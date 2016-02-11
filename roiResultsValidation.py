@@ -2,7 +2,9 @@
 # Test whether roi selects only genes of interest
 # Input is one roi vcf and one exome vcf and one genelist
 
-# example:
+# example data in roi_validation_demo directory:
+# python roiResultsValidation.py -roivariant roi_validation_demo/roi_test.gor -exomevariant roi_validation_demo/exome_test.gor -prefix demo -genelist roi_validation_demo/BMF_v1.genelist.txt
+
 import argparse
 import pandas as pd
 
